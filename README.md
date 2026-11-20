@@ -167,11 +167,6 @@ py -3.11 -m pytest -v
 | 3 | Duplicate Settlement | `TXN-DUP00001` | `DUPLICATE_SETTLEMENT` |
 | 4 | Orphan Refund | `TXN-ORF00001` | `ORPHAN_REFUND` |
 
----
-
-## Deployment — Streamlit Community Cloud
-
-See `SUBMISSION_NOTES.md` for exact deployment steps.
 
 ---
 
